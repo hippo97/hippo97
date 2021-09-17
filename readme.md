@@ -1,12 +1,11 @@
-<img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Blogger&logoColor=white">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Blogger&logoColor=white"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 
 :star: Hi! Hello!
 
-:rocket: #TECH STACK
+:rocket: #TECH STACK <br>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/React-CA4245?style=flat-square&logo=ReactRouter&logoColor=white">
+<img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white">
