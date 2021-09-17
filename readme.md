@@ -1,6 +1,7 @@
-<img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Blogger&logoColor=white"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+[![Tech Blog](<img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Blogger&logoColor=white">)](https://lhdochi.tistory.com/) <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 
-:star: 안녕하세요! 프론트엔드(front-end)를 공부하고 있는 신참 개발자입니다! :rocket:
+:star: 안녕하세요! 프론트
+엔드(front-end)를 공부하고 있는 신참 개발자입니다! :rocket:
 
 ## Who?
 
