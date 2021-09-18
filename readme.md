@@ -14,6 +14,7 @@
 - :musical_keyboard: 음악감상 좋아합니다 특히 피아노!
 - :coffee: 커피 좋아합니다 Drink Coffee. Do Good
 - :mount_fuji: 산책 좋아합니다 걸으면서 생각 정리!:yum:
+- 🦔 고슴도치 좋아해요! :blush:
 
 :rocket: #TECH STACK <br>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
