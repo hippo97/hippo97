@@ -1,7 +1,7 @@
 <a href="https://lhdochi.tistory.com/" target='_blank'><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Blogger&logoColor=white"></a> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 
 :star: 안녕하세요! 프론트
-엔드(front-end)를 공부하고 있는 신참 개발자입니다! :rocket:
+엔드(front-end)를 공부하고 있는 주니어 개발자입니다! :rocket:
 
 ## Who?
 
