@@ -1,5 +1,5 @@
 <a href="https://lhdochi.tistory.com/" target='_blank'><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Blogger&logoColor=white"></a> <a href="mailto:dlgusdn1601@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohbyul&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![followers](https://img.shields.io/github/followers/ohbyul?style=social)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhippo97%2Fhit-counter&count_bg=%2300FFC7&title_bg=%23FB29D2&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 출처: https://byul91oh.tistory.com/213 [개발하는 감자 [: 개감]]
 
