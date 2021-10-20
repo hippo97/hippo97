@@ -1,8 +1,6 @@
 <a href="https://lhdochi.tistory.com/" target='_blank'><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Blogger&logoColor=white"></a> <a href="mailto:dlgusdn1601@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhippo97%2Fhit-counter&count_bg=%2300FFC7&title_bg=%23FB29D2&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-출처: https://byul91oh.tistory.com/213 [개발하는 감자 [: 개감]]
-
 :star: 안녕하세요! 프론트
 엔드(front-end)를 공부하고 있는 주니어 개발자입니다! :rocket:  
 🔥1일 1 Commit! 매일매일 기록!🔥
