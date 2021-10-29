@@ -7,8 +7,7 @@
 
 ## Who?
 
-- :computer: 저는 Next.js와 Redux, Saga를 공부중입니다!
-- :tada: TypeScript, GraphQL에 관심이 있고 공부를 하고있습니다 :blush:
+- :computer: 저는 Next.js와 GraphQL, TypeScript를 공부중입니다! :blush:
 - :mortar_board: 3년제 직업전문학교 해킹보안과정을 수료했습니다
 
 ## Like?
